@@ -30,7 +30,7 @@ const MobileNav = ({ isScrolling }) => {
           isScrolling && "top-0"
         }`}
       >
-        <a to="/#">
+        <a href="/#">
           <img src={InfoSoftLogo} alt="" className="w-28 " />
         </a>
         <FcMenu

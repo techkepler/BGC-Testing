@@ -1,6 +1,6 @@
 import React from "react";
 import { ImQuotesLeft, ImQuotesRight } from "react-icons/im";
-import { Navigation, Pagination, Scrollbar, A11y, Autoplay } from "swiper";
+import { Navigation, Pagination, Scrollbar, Autoplay } from "swiper";
 
 import { Swiper, SwiperSlide } from "swiper/react";
 

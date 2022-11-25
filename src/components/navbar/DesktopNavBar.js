@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import { navData } from "../../data/navData.js";
 import stateUser from "../../contexts/stateUser";
 import { InfoSoftLogo } from "../../assets/export/Export.js";
@@ -16,7 +16,9 @@ const DesktopNavBar = ({ isScrolling }) => {
             isScrolling ? "h-[80px]" : "h-[90px]"
           }  bg-slate-50 flex items-center justify-around w-full gap-10 transition-all duration-500 ease-linear`}
         >
-          <img src={InfoSoftLogo} alt="Company Logo" className="w-32" />
+          <a href="/#">
+            <img src={InfoSoftLogo} alt="Company Logo" className="w-32" />
+          </a>
 
           <div className="flex items-center gap-9 xl:gap-12 2xl:gap-14">
             {navData.map((datas) => (

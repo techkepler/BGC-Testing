@@ -5,8 +5,6 @@ import {
   Portfolio4Img,
   Portfolio5Img,
   Portfolio6Img,
-  Portfolio7Img,
-  Portfolio8Img,
 } from "../assets/export/Export";
 
 export const porftolioData = [
