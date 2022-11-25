@@ -1,0 +1,36 @@
+export { default as HomeBgImg } from "../img/homeBg.jpg";
+export { default as InfoSoftLogo } from "../img/Infosoft-Group-logo.png";
+export { default as AboutImg } from "../img/about.jpg";
+export { default as SoftwareImg } from "../img//software.jpg";
+export { default as AppImg } from "../img/app.jpeg";
+export { default as WebImg } from "../img/web.webp";
+export { default as TestingImg } from "../img/testing.webp";
+export { default as PyhtonImg } from "../img/program/python.jpg";
+export { default as GoImg } from "../img/program/go.jpg";
+export { default as CImg } from "../img/program/c++.jpg";
+export { default as NodeJsImg } from "../img/program/nodejs.jpg";
+export { default as JavaScriptImg } from "../img/program/JS.jpg";
+export { default as ReactJsImg } from "../img/program/react.jpg";
+export { default as Team1Img } from "../img/team/team-1.jpg";
+export { default as Team2Img } from "../img/team/team-2.jpg";
+export { default as Team3Img } from "../img/team/team-3.jpg";
+export { default as Team4Img } from "../img/team/team-4.jpg";
+
+export { default as Portfolio1Img } from "../img/portfolio/portfolio-1.jpg";
+export { default as Portfolio2Img } from "../img/portfolio/portfolio-2.jpg";
+export { default as Portfolio3Img } from "../img/portfolio/portfolio-3.jpg";
+export { default as Portfolio4Img } from "../img/portfolio/portfolio-4.jpg";
+export { default as Portfolio5Img } from "../img/portfolio/portfolio-5.jpg";
+export { default as Portfolio6Img } from "../img/portfolio/portfolio-6.jpg";
+export { default as TestimonialImg } from "../img/testimonials-bg.jpg";
+export { default as Client1Img } from "../img/clients/client-1.png";
+export { default as Client2Img } from "../img/clients/client-2.png";
+export { default as Client3Img } from "../img/clients/client-3.png";
+export { default as Client4Img } from "../img/clients/client-4.png";
+export { default as Client5Img } from "../img/clients/client-5.png";
+
+export { default as TestimonialImg1 } from "../img/testimonials/testimonials-1.jpg";
+export { default as TestimonialImg2 } from "../img/testimonials/testimonials-2.jpg";
+export { default as TestimonialImg3 } from "../img/testimonials/testimonials-3.jpg";
+export { default as TestimonialImg4 } from "../img/testimonials/testimonials-4.jpg";
+export { default as TestimonialImg5 } from "../img/testimonials/testimonials-5.jpg";
